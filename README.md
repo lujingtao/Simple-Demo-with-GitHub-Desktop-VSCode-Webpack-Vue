@@ -1,3 +1,5 @@
+原文地址：https://blog.csdn.net/iamlujingtao/article/details/101108624
+
 # 你遇到的问题
 - 是不是被一堆git命令搞到晕？
 - 是不是在cmd打命令再切换到编辑器写代码，麻烦得一b？
@@ -6,6 +8,13 @@
 - 是不是不知道怎么把写好的代码同步GitHub代码？
 
 来来来，这里用一篇文章介绍怎样搭建一个傻瓜式多人协作的vue工作环境，利用VSCode这神器，把一切都简单化。（笔者也是踩过各种坑啊）
+
+[GitHub地址](https://github.com/lujingtao/Simple-Demo-with-GitHub-Desktop-VSCode-Webpack-Vue)，你可以直接下载就有一个最基础的webpack+vue工作环境了，给个`Star` 不过分吧。
+
+当前使用版本：
+    "vue": "^2.6.10",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9"
 
 # 前提工作
 以下前提工作请自行百度处理，括号有tips说明，让你少踩坑
@@ -124,3 +133,4 @@ var app = new Vue({
 # 把成果推送到远程仓库
 成功了啊大兄弟，终于建立了一个`GitHub Desktop + VSCode + Webpack + Vue` 的工作环境，最后把我们的成果推送到远程仓库，具体参考上文 **VSCode同步远程仓库** 步骤。
 
+[GitHub地址](https://github.com/lujingtao/Simple-Demo-with-GitHub-Desktop-VSCode-Webpack-Vue)，你可以直接下载就有一个最基础的webpack+vue工作环境了，给个`Star` 不过分吧。
