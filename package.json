@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Hello,this is a test repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lujingtao/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lujingtao/test/issues"
+  },
+  "homepage": "https://github.com/lujingtao/test#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
